@@ -1,0 +1,27 @@
+{
+  "name": "new_code_challenge_2",
+  "version": "1.0.0",
+  "description": "new code challenge 2 launchpad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimeAcademy/Chi_CodeChallenge_2.git"
+  },
+  "keywords": [
+    "prime",
+    "tau",
+    "jquery",
+    "node",
+    "express"
+  ],
+  "author": "PrimeAcademy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
